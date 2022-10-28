@@ -4,7 +4,7 @@
 
 Front_end: https://yijunzhou_mysite_frontend.surge.sh/
 
-Front_end: React, React-Redux, Boostrap
+Front_end: React, React-Redux, Boostrap, Jest test, etc.
 
 Back_end: continue working
 
